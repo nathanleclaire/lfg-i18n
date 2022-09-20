@@ -1,6 +1,6 @@
 # lfg-i18n
 
-![image](https://user-images.githubusercontent.com/1476820/191167625-ecc8a395-1d74-4636-b6c3-5bb082a5c64c.png)
+![image](https://user-images.githubusercontent.com/1476820/191173424-9d5f6f7e-8081-43d5-9131-2f604a2e5f98.png)
 
 LFG, or "Let's fucking go!" is a popular Internet acronym used to proclaim excitement, lift spirits, and show determination.
 
